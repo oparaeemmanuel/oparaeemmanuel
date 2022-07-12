@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oparaeemmanuel
-- 👀 I’m interested in full-stack web developmengt
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on full-stack web development
 - 📫 How to reach me oparaeemmanuel@gmail.com
